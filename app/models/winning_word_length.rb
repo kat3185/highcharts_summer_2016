@@ -1,0 +1,2 @@
+class WinningWordLength < ApplicationRecord
+end

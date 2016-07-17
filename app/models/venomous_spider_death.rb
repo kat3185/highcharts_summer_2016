@@ -1,0 +1,2 @@
+class VenomousSpiderDeath < ApplicationRecord
+end
